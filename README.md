@@ -10,7 +10,7 @@ For more than 4 years now, design has been the central piece of my world. On thi
 
 With a never-ending goal of maintaining a high standard for usability & user experience, I have consistently worked with various startups and clients worldwide and helped them create unique and engaging digital products.
 
-I'm currently working with the Platform team at [yellow.ai](https://yellow.ai) as a Software Engineer (SDE-2).
+I'm currently working with the Platform team at [yellow.ai](https://yellow.ai) as a Software Engineer (SDE-3).
 
 #### Skills
 
@@ -21,8 +21,8 @@ I'm currently working with the Platform team at [yellow.ai](https://yellow.ai) a
   
 #### What I'm up to these days...
 
-- 🔭 I’m currently working on the Conversational CX Platform at [yellow.ai](https://yellow.ai/).
-- 📖 I’m currently reading [The Art of Thinking Clearly by Rolf Dobelli](https://www.goodreads.com/book/show/16248196-the-art-of-thinking-clearly)
+- 🔭 I’m currently working on [Analyze](https://yellow.ai/platform/analyze/) at [yellow.ai](https://yellow.ai/).
+- 📖 I’m currently reading [Liar's Poker](https://www.goodreads.com/book/show/7865083-liar-s-poker) by Michael Lewis
 - 💻 My recent projects: [Homero](https://heyhomero.com)
 - 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat)
 - 📑 My Blog: https://adithyabhat.com/blog
