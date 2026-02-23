@@ -6,7 +6,7 @@
 
 I'm Adithya, a UX Engineer from Bengaluru, India.  
 
-For more than 5 years now, design has been the central piece of my world. On this quick and mind-blowing journey, I have moved over the years from being a graphic designer to a full-time UX Designer and UI Engineer.
+For more than 6 years now, design has been the central piece of my world. On this quick and mind-blowing journey, I have moved over the years from being a graphic designer to a full-time UX Designer and UI Engineer.
 
 With a never-ending goal of maintaining a high standard for usability & user experience, I have consistently worked with various startups and clients worldwide and helped them create unique and engaging digital products.
 
@@ -21,7 +21,7 @@ I'm currently working with the Platform team at [yellow.ai](https://yellow.ai) a
   
 #### What I'm up to these days...
 
-- 🔭 I’m currently working on [Analyze](https://yellow.ai/platform/analyze/) at [yellow.ai](https://yellow.ai/).
+- 🔭 I’m currently working on [Nexus](https://yellow.ai/nexus/) at [yellow.ai](https://yellow.ai/).
 - 📖 I’m currently reading [All the pretty horses](https://www.goodreads.com/book/show/469571.All_the_Pretty_Horses) by Cormac McCarthy
 - 💻 My recent projects: [Homero](https://heyhomero.com)
 - 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat)
