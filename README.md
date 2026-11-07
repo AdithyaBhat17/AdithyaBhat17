@@ -23,7 +23,7 @@ I'm currently working with the Platform team at [yellow.ai](https://yellow.ai) a
 
 - 🔭 I’m currently working on [Nexus](https://yellow.ai/nexus/) at [yellow.ai](https://yellow.ai/).
 - 📖 I’m currently reading [All the pretty horses](https://www.goodreads.com/book/show/469571.All_the_Pretty_Horses) by Cormac McCarthy
-- 💻 My recent projects: [Homero](https://heyhomero.com)
+- 💻 My recent projects: [Olympus](https://adithyabhat.com/work/olympus)
 - 🎨 My designs: [Dribbble](https://dribbble.com/adithyanr), [Behance](https://behance.net/adithyabhat)
 - 📑 My Blog: https://adithyabhat.com/blog
 - 📫 How to reach me: [website](https://adithyabhat.com/contact), [twitter](https://twitter.com/adithya__nr), [LinkedIn](https://linkedin.com/in/adithya-nr)
